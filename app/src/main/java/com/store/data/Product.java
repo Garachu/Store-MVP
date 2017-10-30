@@ -13,4 +13,28 @@ public final class Product {
     private int bp;
     private int quantity;
 
+
+    public String getLabel() {
+        return label;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getCategory() {
+        return category;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public int getBp() {
+        return bp;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
 }

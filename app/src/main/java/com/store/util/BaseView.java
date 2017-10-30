@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.store;
+package com.store.util;
 
 public interface BaseView<T> {
 
